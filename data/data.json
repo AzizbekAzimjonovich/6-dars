@@ -1,0 +1,312 @@
+{
+    "foods":[
+        {
+            "id":1,
+            "name":"Palov",
+            "price":"277 000 UZS",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD-xDLXhh2PKPTXzEvMPGM_pBNbWMvWDo41Q8z3DZBuw&s",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "90 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "guruch",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":2,
+            "name":"Mastava",
+            "price":"70 000 UZS",
+            "img":"https://avatars.dzeninfra.ru/get-zen_doc/3437146/pub_60357f87084cc34524138172_60357faf084cc34524139d97/scale_1200",
+            "plus":[
+                "Non",
+                "Qalampir",
+                "Suzma",
+                "Choy",
+                "Ziravorlar"
+            ],
+            "cookingTime": "60 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "guruch",
+                "piyoz",
+                "tuz",
+                "tamat"
+            ]
+        },
+        {
+            "id":3,
+            "name":"Dimlama",
+            "price":"213 000 UZS",
+            "img":"https://zira.uz/wp-content/uploads/2018/03/dimlama-3.jpg",
+            "plus":[
+                "Non",
+                "Salat",
+                "Qalampir",
+                "Choy"
+            ],
+            "cookingTime": "45 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "piyoz",
+                "kartoshka",
+                "tuz"
+            ]
+        },
+        {
+            "id":4,
+            "name":"Beshbarmoq",
+            "price":"397 000 UZS",
+            "img":"https://zira.uz/wp-content/uploads/2019/01/beshbarmak-6.jpg",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "120 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "ot go'sht",
+                "hamr",
+                "piyoz",
+                "tuz",
+                "hasb"
+            ]
+        },
+        {
+            "id":5,
+            "name":"Norin",
+            "price":"155 000 UZS",
+            "img":"https://avatars.dzeninfra.ru/get-zen_doc/5234364/pub_61d29762dc3e201c9857ac29_61d339e382149e77315c1498/orig",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "30 minutes",
+            "product":[
+                "yog'",
+                "go'sht",
+                "Ugra",
+                "tuz"
+            ]
+        },
+        {
+            "id":6,
+            "name":"Manti",
+            "price":"99 000 UZS",
+            "img":"https://turi-uzbekistana.ru/images/news/20180924065731.jpg",
+            "plus":[
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "60 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "hamr",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":7,
+            "name":"Sho'rva",
+            "price":"75 000 UZS",
+            "img":"https://shifo.uz/upload/iblock/ba2/ba260b387e8763ffd724ac3154ebf341.jpg",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "60 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "kartoshka",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":8,
+            "name":"Honim",
+            "price":"119 000 UZS",
+            "img":"https://i.ytimg.com/vi/n_RywdN1f0k/maxresdefault.jpg",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "60 minutes",
+            "product":[
+                "yog'",
+                "go'sht",
+                "kartoshka",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":9,
+            "name":"Halim",
+            "price":"95 000 UZS",
+            "img":"https://halva.tj/upload/medialibrary/f23/9k0haysf9uerkyo9wrf4cpcww3rdwjf2.png",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "110 minutes",
+            "product":[
+                "no'xat",
+                "yog'",
+                "go'sht",
+                "bug'doy",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":10,
+            "name":"Grill",
+            "price":"100 000 UZS",
+            "img":"https://img1.russianfood.com/dycontent/images_upl/353/big_352829.jpg",
+            "plus":[
+                "Non",
+                "sous",
+                "mayenez",
+                "pepsi cola",
+                "kartoshka free"
+            ],
+            "cookingTime": "25 minutes",
+            "product":[
+                "yog'",
+                "tovuq go'shti",
+                
+                "saryog'",
+                "tuz"
+            ]
+        },
+        {
+            "id":11,
+            "name":"Somsa",
+            "price":"75 000 UZS",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1qYf-FbqWKuY2QuXHK93FKTLVvJ63KkAAszD-WAZhQ&s",
+            "plus":[
+                "Non",
+                "Salat",
+                "sous",
+                "Choy"
+            ],
+            "cookingTime": "10 minutes",
+            "product":[
+                "yog'",
+                "go'sht",
+                "hamr",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":12,
+            "name":"Bishtayks",
+            "price":"57 000 UZS",
+            "img":"https://shustof.ru/upload/resize_cache/iblock/ec1/450_450_1d7a58ff99b324185ccb5ad5dfbdb5e85/0h69t0lmcoij00nzqeijn6vjvk8n7nm0.png",
+            "plus":[
+                "Non",
+                "Salat",
+                "Choy"
+            ],
+            "cookingTime": "15 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "guruch",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":13,
+            "name":"Kabob",
+            "price":"49 000 UZS",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMYOXGttKRb2L82TeD6bpySLe5ihgHzpCbCOEpacTfPw&s",
+            "plus":[
+                "Non",
+                "Salat",
+                "Choy"
+            ],
+            "cookingTime": "43 minutes",
+            "product":[
+                "go'sht",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":14,
+            "name":"Lag'mon",
+            "price":"69 000 UZS",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKHdNHygQlUBfS8CSsRuEQbNeHcsCJcfl3Gt9VXyO52g&s",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "65 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "lagmon",
+                "piyoz",
+                "tuz"
+            ]
+        },
+        {
+            "id":15,
+            "name":"Iskandar Donar",
+            "price":"177 000 UZS",
+            "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKqFeEnHeFSFs8tEp9b4XntZx8f_TL-u1fJn8fUgunLg&s",
+            "plus":[
+                "Non",
+                "Salat",
+                "Suzma",
+                "Choy"
+            ],
+            "cookingTime": "60 minutes",
+            "product":[
+                "sabzi",
+                "yog'",
+                "go'sht",
+                "piyoz",
+                "tuz"
+            ]
+        }
+       
+    ]
+}

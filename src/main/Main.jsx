@@ -4,7 +4,11 @@ import { useState } from 'react';
 import { useFetch } from '../hooks/useFetch';
 import { Link } from 'react-router-dom';
 
+
 function Main() {
+
+
+
   const [url, setUrl] = useState('http://localhost:3000/foods');
   const { data: trip } = useFetch(url);
 
@@ -23,10 +27,7 @@ function Main() {
             <p className='aboutFood'>
               <Link
                 className='aboutFood'
-                to={{
-                  pathname: "/learnMore",
-                }}
-              >
+                to={`/foods/${trip.id}` }>
                 Learn more...
               </Link>
 

@@ -1,8 +1,9 @@
 import './App.css';
 import Navbar from './navbar/Navbar.jsx';
 import Main from './main/Main.jsx';
-import LearnMore from './learnMore/LearnMore.jsx';
 import About from './about/About.jsx';
+import LearnMore from './main/LearnMore';
+import Contact from './contact/Contact';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 function App() {
@@ -13,7 +14,8 @@ function App() {
         <Routes>
           <Route path="/" element={<Main />} />
           <Route path="/about" element={<About />} />
-          <Route path="/learnMore" element={<LearnMore />} />
+          <Route path="/contact" element={<Contact />} />
+          <Route path="/foods/:id" element={<LearnMore />} />
         </Routes>
       </div>
     </BrowserRouter>

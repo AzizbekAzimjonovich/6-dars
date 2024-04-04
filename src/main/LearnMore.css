@@ -1,0 +1,62 @@
+.learn{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color:#222831;
+    border-radius:43% 10px 10px 43%;
+    display: flex;
+    align-items:center;
+    gap: 20px;
+    img{
+        border-radius:50% 0% 0px 50%;
+        object-fit: cover;
+    }
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+    .info{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+        justify-content:space-between;
+    }
+}
+.text{
+    display: flex;
+    flex-wrap: wrap;
+    color:#f2f2f2;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+    margin-right: 10px;
+    p{
+        margin-right: 10px;
+    }
+}
+.btnS{
+    margin-right: 4px;
+    padding: 5px;
+    color:#f2f2f2;
+    background-color:#f96d00;
+    border-radius:10px;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+        line-height: 1.5;
+        font-weight: 500;
+}
+.product{
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 500;
+    margin-right: 10px;
+}
+.name, .price, .cookingT{
+    color:#f96d00;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 10px;
+}
